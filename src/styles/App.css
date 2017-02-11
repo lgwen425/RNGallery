@@ -1,0 +1,29 @@
+html body{
+		background-color: #222222;
+		width: 100%;
+		height: 100%;
+}
+.content{
+	width: 100%;
+	height: 100%;
+}
+/*stage*/
+.stage{
+	position: relative;
+	width: 100%;
+	height: 680px;
+}
+/*stage_end*/
+/*image*/
+.img-sec{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background-color: #ddd;
+}
+/*controller*/
+.controller-nav{
+	position: absolute;
+}
+/*controller_end*/
